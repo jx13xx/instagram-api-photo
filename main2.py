@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 import autoit
 import time
 
-username = "randomshitisgoingrightnow"
-passwd = "95323752@Sharonjeen"
+username = ""
+passwd = ""
 driverpth = "C:\webdrivers\chromedriver.exe"
 photopath = "D:\instagram\meme1.jpg" #examp "C:\\Users\\alire\\PycharmProjects\\instagrambot2\\logo.png"
 phototext = "tatil güzeldi!"
