@@ -14,8 +14,8 @@ def bot_func(name):
     #
     # bot.upload_photo("meme1.jpg", caption="Meme is always a meme")
 
-    username = 'randomshitisgoingrightnow'
-    pasword = '95323752@Sharonjeen'
+    username = ''
+    pasword = ''
 
     image = 'C:\\Users\jeenx\Desktop\kylie.jpg'
     text = 'sometimes a meme got a be a meme lol'
