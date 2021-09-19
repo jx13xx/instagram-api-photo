@@ -18,8 +18,8 @@ chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument("--incognito")
 driver = webdriver.Chrome(executable_path=driverpth)
 driver.get('https://www.instagram.com/accounts/login/')
-driver.email = 'randomshitisgoingrightnow'
-driver.password = '95323752@Sharonjeen'
+driver.email = ''
+driver.password = ''
 driver.username = 'khloekardashian'
 sleepTime(1)
 try:
